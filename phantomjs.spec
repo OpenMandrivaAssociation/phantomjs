@@ -9,7 +9,7 @@ Release: %{release}
 Source0: http://phantomjs.googlecode.com/files/%{name}-%{version}-source.zip
 License: BSD
 Group:	 System/Libraries
-Url:	 http://phantomjs.org/
+Url:	 https://phantomjs.org/
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildRequires: qt4-devel
 
